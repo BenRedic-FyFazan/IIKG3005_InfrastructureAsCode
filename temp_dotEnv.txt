@@ -1,5 +1,0 @@
-displayName=
-tenantId=
-appId=
-appSecret=
-subscriptionId=
