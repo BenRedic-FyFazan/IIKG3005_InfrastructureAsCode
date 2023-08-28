@@ -1,0 +1,12 @@
+# Resource group variables
+rg = {
+    name = ""
+    location = ""
+}
+
+# Storage account variables
+sa = {
+    name = ""
+    accTier = "Standard"
+    accReplication = "LRS"
+}
